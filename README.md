@@ -7,3 +7,4 @@ Features:
 - simple to use
 - you can add and remove your tasks
 - build in html css and js
+- you can view your all task 
